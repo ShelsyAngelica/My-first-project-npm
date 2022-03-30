@@ -22,10 +22,10 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShelsyAngelica/My-first-project-npm.git"
+    "url": "git+https://github.com/ShelsyAngelica/My-first-project-npm1.git"
   },
   "bugs": {
-    "url": "https://github.com/ShelsyAngelica/My-first-project-npm/issues"
+    "url": "https://github.com/ShelsyAngelica/My-first-project-npm1/issues"
   },
-  "homepage": "https://github.com/ShelsyAngelica/My-first-project-npm#readme"
+  "homepage": "https://github.com/ShelsyAngelica/My-first-project-npm1#readme"
 }
